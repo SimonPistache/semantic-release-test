@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.1.0...v0.2.0) (2025-03-03)
+
+
+### Features
+
+* ✨ new files for the roll up ([#2](https://github.com/SimonPistache/semantic-release-test/issues/2)) ([a063bb2](https://github.com/SimonPistache/semantic-release-test/commit/a063bb26ea3c5c7e2474e539ff71ba342732230e))
+
 # [0.1.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.0.1...v0.1.0) (2025-03-03)
 
 
