@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/SimonPistache/semantic-release-test/compare/v0.4.0...v0.4.1) (2025-03-04)
+
+
+### Bug Fixes
+
+* **#13:** Introduce a fix ([107062a](https://github.com/SimonPistache/semantic-release-test/commit/107062aa9cb61a06469221ee750f6afd3f16a7a9)), closes [#13](https://github.com/SimonPistache/semantic-release-test/issues/13)
+
 # [0.4.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.3.0...v0.4.0) (2025-03-04)
 
 
