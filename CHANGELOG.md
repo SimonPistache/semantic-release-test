@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.5.0...v1.0.0) (2025-03-04)
+
+
+### Features
+
+* **#16:** 💥 Introduct a new feature ([7db4128](https://github.com/SimonPistache/semantic-release-test/commit/7db4128abaa57dc3a01e3eeae05173021507f4e0)), closes [#16](https://github.com/SimonPistache/semantic-release-test/issues/16)
+
+
+### BREAKING CHANGES
+
+* **#16:** Things are different now.
+
 # [0.5.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.4.1...v0.5.0) (2025-03-04)
 
 
