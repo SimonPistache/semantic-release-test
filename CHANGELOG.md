@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.4.1...v0.5.0) (2025-03-04)
+
+
+### Features
+
+* **#15:** Introduce a breaking feature ([f3b1d64](https://github.com/SimonPistache/semantic-release-test/commit/f3b1d645311a345270ca45e6910e87dcc3980c2b)), closes [#15](https://github.com/SimonPistache/semantic-release-test/issues/15) [#15](https://github.com/SimonPistache/semantic-release-test/issues/15)
+
 ## [0.4.1](https://github.com/SimonPistache/semantic-release-test/compare/v0.4.0...v0.4.1) (2025-03-04)
 
 
