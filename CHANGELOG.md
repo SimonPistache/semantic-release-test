@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.1.0...v1.2.0) (2025-03-04)
+
+
+### Features
+
+* **#5:** Add a feature to main ([a25611e](https://github.com/SimonPistache/semantic-release-test/commit/a25611e2cc00f4bed38101be4a3103bfbab9de7f)), closes [#5](https://github.com/SimonPistache/semantic-release-test/issues/5)
+
 # [1.1.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.0.0...v1.1.0) (2025-03-04)
 
 
