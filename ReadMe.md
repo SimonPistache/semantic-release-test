@@ -1,3 +1,8 @@
 # Semantic Release Test
 
-a new feature, test that all kind of CI are skipped when there is a token in the commit head.
+Implement a feature while the main branch is protected and have a ruleset preventing changes on it, except it's on a private repository so it's not enforced.
+
+
+# Author
+
+Hey it's me!
