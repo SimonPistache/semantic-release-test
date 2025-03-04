@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.0.0...v1.1.0) (2025-03-04)
+
+
+### Bug Fixes
+
+* **#18:** Remove contains condition in Semantic Release WF [skip ci] ([db3e1c7](https://github.com/SimonPistache/semantic-release-test/commit/db3e1c7d7d7b1a6d73bd427ed4a5d45a33211804)), closes [#18](https://github.com/SimonPistache/semantic-release-test/issues/18)
+* **#18:** tweak again the CI [SKIP CI] ([80cea84](https://github.com/SimonPistache/semantic-release-test/commit/80cea84d5694f8007ea242151ec6efab5257eb2a)), closes [#18](https://github.com/SimonPistache/semantic-release-test/issues/18)
+
+
+### Features
+
+* **#18:** 👷 A new CI feature [skip ci] ([81e3dda](https://github.com/SimonPistache/semantic-release-test/commit/81e3ddab6bacc862c6fc30bafb9f7643cb8a4c44)), closes [#18](https://github.com/SimonPistache/semantic-release-test/issues/18)
+
 # [1.0.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.5.0...v1.0.0) (2025-03-04)
 
 
