@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.3.0...v0.4.0) (2025-03-04)
+
+
+### Features
+
+* **#12:** Introduce a new feature ([bbe3bd4](https://github.com/SimonPistache/semantic-release-test/commit/bbe3bd46fccbc51388f4ee7f835cd792f77b34c7)), closes [#12](https://github.com/SimonPistache/semantic-release-test/issues/12)
+
 # [0.3.0](https://github.com/SimonPistache/semantic-release-test/compare/v0.2.0...v0.3.0) (2025-03-04)
 
 
