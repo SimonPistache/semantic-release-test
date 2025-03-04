@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.3.0...v1.4.0) (2025-03-04)
+
+
+### Features
+
+* **#18:** Add a new feature to the CI [skip ci] ([#22](https://github.com/SimonPistache/semantic-release-test/issues/22)) ([ac42fbb](https://github.com/SimonPistache/semantic-release-test/commit/ac42fbbab8ff779aaef93bca494fc44afbdee632)), closes [#18](https://github.com/SimonPistache/semantic-release-test/issues/18)
+* **#7:** Introduce a nice feature ([#23](https://github.com/SimonPistache/semantic-release-test/issues/23)) ([c28f0a4](https://github.com/SimonPistache/semantic-release-test/commit/c28f0a4891f39d3fa5dd5664ba35d4b0d06ed4aa)), closes [#7](https://github.com/SimonPistache/semantic-release-test/issues/7) [#7](https://github.com/SimonPistache/semantic-release-test/issues/7)
+
 # [1.3.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.2.0...v1.3.0) (2025-03-04)
 
 
