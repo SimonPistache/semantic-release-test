@@ -2,4 +2,4 @@
 
 Clean previous files on the repository for this test campaign.
 
-> This is a feat. Test run 3.
+> This is a fix. Trial 1.
