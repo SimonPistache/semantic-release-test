@@ -1,3 +1,3 @@
 # Semantic Release Test
 
-> This is again another change for the CI
+> Implement a feature via a direct commit on main while having a branch protection on main on a private repository.
