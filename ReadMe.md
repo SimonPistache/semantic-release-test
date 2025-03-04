@@ -1,3 +1,3 @@
 # Semantic Release Test
 
-> This major work contains BREAKING CHANGES
+> This is a change for the CI
