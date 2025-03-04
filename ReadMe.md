@@ -1,3 +1,3 @@
 # Semantic Release Test
 
-> This is a doc.
+> This major work contains BREAKING CHANGES
