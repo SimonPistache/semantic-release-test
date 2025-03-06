@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.5.0...v1.6.0) (2025-03-06)
+
+
+### Features
+
+* **#10:** Implemente a nice feature ([#25](https://github.com/SimonPistache/semantic-release-test/issues/25)) ([831a219](https://github.com/SimonPistache/semantic-release-test/commit/831a219c923534c38cd081956181051f9526f3b8)), closes [#10](https://github.com/SimonPistache/semantic-release-test/issues/10)
+* **#10:** please make it work ([#26](https://github.com/SimonPistache/semantic-release-test/issues/26)) ([d15bb47](https://github.com/SimonPistache/semantic-release-test/commit/d15bb47d6281e61f89efaba224a0ea7d18da14e6)), closes [#10](https://github.com/SimonPistache/semantic-release-test/issues/10)
+
 # [1.5.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.4.0...v1.5.0) (2025-03-04)
 
 
