@@ -1,14 +1,12 @@
 name: Semantic Release
+run-name: Release a new version of the icon pack on PR's merging
 
 on:
-  push:
-    branches:
-      - main
   pull_request:
+    types: 
+      - closed
     branches:
       - main
-    types: 
-      - merged
 
 jobs:
   semantic-release:
