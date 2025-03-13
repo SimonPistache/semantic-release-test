@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.6.0...v1.7.0) (2025-03-13)
+
+
+### Features
+
+* **flowers:** Add flowers ([#27](https://github.com/SimonPistache/semantic-release-test/issues/27)) ([8a87090](https://github.com/SimonPistache/semantic-release-test/commit/8a870908c23047b60cfbd2c971cfd4d75d15382c))
+
 # [1.6.0](https://github.com/SimonPistache/semantic-release-test/compare/v1.5.0...v1.6.0) (2025-03-06)
 
 
