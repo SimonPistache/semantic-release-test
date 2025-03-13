@@ -4,6 +4,8 @@ Implement a feature while the main branch have a ruleset preventing changes on i
 
 Add flowers to the projects
 
+Add coffee to the project
+
 # Author
 
 Hey it's me!
